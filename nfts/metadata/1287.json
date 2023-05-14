@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1288",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1287.png",
+  "dna": "498891f0e9f0ac255dec73e79a420a6f2921d45d",
+  "edition": 1288,
+  "date": 1683840614675,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body dark Greenblue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rednose"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

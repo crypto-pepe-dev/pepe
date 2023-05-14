@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1424",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1423.png",
+  "dna": "c9a372b7ff29f1ef444c590d84a2ab446bd04d20",
+  "edition": 1424,
+  "date": 1683840672144,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient BlueGreen"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

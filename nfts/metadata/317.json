@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #318",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/317.png",
+  "dna": "3312c1fe024d9a9a1d5757d03f9138d1828fe8e8",
+  "edition": 318,
+  "date": 1683840209289,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Fire"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

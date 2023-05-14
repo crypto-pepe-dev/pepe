@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #621",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/620.png",
+  "dna": "ab0243338df6ae1a9a0cd1e13dbd554f8fa22c69",
+  "edition": 621,
+  "date": 1683840333175,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cigarett"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

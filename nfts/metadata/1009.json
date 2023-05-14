@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1010",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1009.png",
+  "dna": "0529bfc6f4813e460ab34058464522d21ac15a5d",
+  "edition": 1010,
+  "date": 1683840498679,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rednose"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

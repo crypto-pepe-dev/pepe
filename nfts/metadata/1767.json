@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1768",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1767.png",
+  "dna": "7140d3f0638ecd079d9da06625dc574508234baf",
+  "edition": 1768,
+  "date": 1683840825210,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

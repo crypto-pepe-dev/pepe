@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1221",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1220.png",
+  "dna": "5f4b81d92df1713a5408a70d8780d0f28c69ce92",
+  "edition": 1221,
+  "date": 1683840586733,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goldteeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

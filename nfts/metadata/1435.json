@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1436",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1435.png",
+  "dna": "d29631caad2899fd3983ab1d835eef675841c8bb",
+  "edition": 1436,
+  "date": 1683840677178,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PinkBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

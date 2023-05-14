@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1670",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1669.png",
+  "dna": "a1708bb5e16317e5f0b2127357ad715e786e3dfc",
+  "edition": 1670,
+  "date": 1683840777675,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shark"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

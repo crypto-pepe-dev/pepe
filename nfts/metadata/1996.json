@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1997",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1996.png",
+  "dna": "67012c2ba516607ead718fcb458a8f8ad022dedf",
+  "edition": 1997,
+  "date": 1683840933886,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

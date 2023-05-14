@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1748",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1747.png",
+  "dna": "2c0b08d8d9e459340ca71d81f09407ab944a016b",
+  "edition": 1748,
+  "date": 1683840814914,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Eggs"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #359",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/358.png",
+  "dna": "5df14c3c74cbb49b8fb75c258fe24c3e9500c24d",
+  "edition": 359,
+  "date": 1683840227039,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shark"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

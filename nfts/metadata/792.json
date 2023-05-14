@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #793",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/792.png",
+  "dna": "387c093d5a55ef541d42006f92c6e4ae842ad3bc",
+  "edition": 793,
+  "date": 1683840406075,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Halo"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

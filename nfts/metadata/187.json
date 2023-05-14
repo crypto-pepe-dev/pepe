@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #188",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/187.png",
+  "dna": "4d489e3ece06de339e68b75d14301eb67d2f63f6",
+  "edition": 188,
+  "date": 1683840156458,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

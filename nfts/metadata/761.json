@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #762",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/761.png",
+  "dna": "cbc5658c362dcfb0c9d6106bc6c99eb27ed258ce",
+  "edition": 762,
+  "date": 1683840393265,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tyagi"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

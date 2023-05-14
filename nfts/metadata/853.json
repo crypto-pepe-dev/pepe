@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #854",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/853.png",
+  "dna": "82f454fec9932dda7ce4edb68124b4d3febc04bd",
+  "edition": 854,
+  "date": 1683840432323,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1526",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1525.png",
+  "dna": "ddc88049d3775fdaf006e9b7e2fd8f929706a5c5",
+  "edition": 1526,
+  "date": 1683840714779,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

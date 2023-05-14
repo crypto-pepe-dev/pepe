@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1026",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1025.png",
+  "dna": "1195274745baa06ae7a564c40ab2cc24d3a4ad9a",
+  "edition": 1026,
+  "date": 1683840505354,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Barette"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

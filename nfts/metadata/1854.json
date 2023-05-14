@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1855",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1854.png",
+  "dna": "a3cfaea214959294d26ceb668ace3dd9930e7b0e",
+  "edition": 1855,
+  "date": 1683840867989,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

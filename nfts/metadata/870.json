@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #871",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/870.png",
+  "dna": "e11dff890eabed50ca28817316383fcc3c0d32cf",
+  "edition": 871,
+  "date": 1683840439687,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy ShyBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Frog"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

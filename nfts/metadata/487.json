@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #488",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/487.png",
+  "dna": "71aaa1b0f42ad5cf85fc20405de592b9387c60c4",
+  "edition": 488,
+  "date": 1683840278574,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "GoldenChain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Barette"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

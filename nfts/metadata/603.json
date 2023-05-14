@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #604",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/603.png",
+  "dna": "2f5fed1a31cd2bd393cc371794f8d70ca1019d83",
+  "edition": 604,
+  "date": 1683840326009,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MegaLaugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Frog"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

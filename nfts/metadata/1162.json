@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1163",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1162.png",
+  "dna": "094596a395c7f1b987c4f7ebb690b28c728629e0",
+  "edition": 1163,
+  "date": 1683840562461,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body White Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Barette"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

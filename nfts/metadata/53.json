@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #54",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/53.png",
+  "dna": "1094c8bffbd4d28ff7cf50e9aa875a53d6830a37",
+  "edition": 54,
+  "date": 1683840102264,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

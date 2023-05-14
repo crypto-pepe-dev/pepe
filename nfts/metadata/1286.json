@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1287",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1286.png",
+  "dna": "874ea9a09d872991ce650aff0a675fbe8584ab28",
+  "edition": 1287,
+  "date": 1683840614244,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

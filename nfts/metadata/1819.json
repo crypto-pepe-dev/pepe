@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1820",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1819.png",
+  "dna": "b2a26fffd02cde5f4d7eade8d7178b7d29eed4eb",
+  "edition": 1820,
+  "date": 1683840850782,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes SoftGreen"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

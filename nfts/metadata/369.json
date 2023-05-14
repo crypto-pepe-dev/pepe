@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #370",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/369.png",
+  "dna": "27531c01e8df56afa4504dcb563b17848dc9c080",
+  "edition": 370,
+  "date": 1683840231482,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goldteeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shark"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

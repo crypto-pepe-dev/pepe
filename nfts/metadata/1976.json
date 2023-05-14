@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1977",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1976.png",
+  "dna": "b000d58e015cfc07ffb808fb61691307e87feb11",
+  "edition": 1977,
+  "date": 1683840924849,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

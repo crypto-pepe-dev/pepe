@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #357",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/356.png",
+  "dna": "c6a619d55c138b906bfc0e67e7c1781e94ec8cad",
+  "edition": 357,
+  "date": 1683840226266,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

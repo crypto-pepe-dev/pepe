@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #538",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/537.png",
+  "dna": "1f528f8005c3502754226fbf20bf2ba769ca5012",
+  "edition": 538,
+  "date": 1683840299202,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cigarett"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

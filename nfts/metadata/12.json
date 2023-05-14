@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #13",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/12.png",
+  "dna": "0c85b5358440fbc4ad7eecb23dbea259b2c853fb",
+  "edition": 13,
+  "date": 1683840086312,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

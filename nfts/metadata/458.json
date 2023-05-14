@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #459",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/458.png",
+  "dna": "c1d238539e22c48f85cba36706b16092243827f2",
+  "edition": 459,
+  "date": 1683840267140,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Frog"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

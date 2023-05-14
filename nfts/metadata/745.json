@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #746",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/745.png",
+  "dna": "a4cf5c417da5712840082a009356c4ad2ba6fa29",
+  "edition": 746,
+  "date": 1683840386612,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MegaLaugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Capybara"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

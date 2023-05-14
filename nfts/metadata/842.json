@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #843",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/842.png",
+  "dna": "5af9df9665dcdb18ab3b8ffd124c2569699d139f",
+  "edition": 843,
+  "date": 1683840427652,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body dark Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

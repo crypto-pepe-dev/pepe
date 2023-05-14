@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #180",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/179.png",
+  "dna": "e04f5b1f6d938ef6f285da78d57a6722a12d1d6e",
+  "edition": 180,
+  "date": 1683840153295,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body acid Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy ShyBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rednose"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

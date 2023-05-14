@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #332",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/331.png",
+  "dna": "0b39cd6f4cd2d352dd7dcad3e97910459e1d0501",
+  "edition": 332,
+  "date": 1683840215659,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird White"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

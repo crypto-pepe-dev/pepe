@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1323",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1322.png",
+  "dna": "aefb6b119aa1c499e621d396449d7094c5e74175",
+  "edition": 1323,
+  "date": 1683840629452,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

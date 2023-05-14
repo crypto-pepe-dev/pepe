@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #217",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/216.png",
+  "dna": "f9e2d4621ed5f14a8085cb29730ff6d48c873bdb",
+  "edition": 217,
+  "date": 1683840168371,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MegaLaugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

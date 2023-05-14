@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1085",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1084.png",
+  "dna": "dd58b041d1ff2647ea1318ed2bef4d7f2198809f",
+  "edition": 1085,
+  "date": 1683840529872,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy ShyBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tyagi"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

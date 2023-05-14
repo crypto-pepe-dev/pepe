@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #2",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1.png",
+  "dna": "69264da06ad12cb602a2adca9cdda43d2d140d4f",
+  "edition": 2,
+  "date": 1683840081995,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body White Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rednose"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

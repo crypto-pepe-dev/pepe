@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #714",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/713.png",
+  "dna": "3165e88d370cbe452de00d604c4e1c1632376f98",
+  "edition": 714,
+  "date": 1683840372643,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Violet"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Barette"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

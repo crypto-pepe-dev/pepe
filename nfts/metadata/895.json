@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #896",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/895.png",
+  "dna": "cd81503001a45e0e16e642620e336d59b79f626c",
+  "edition": 896,
+  "date": 1683840450326,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

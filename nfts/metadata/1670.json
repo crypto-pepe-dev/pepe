@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1671",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1670.png",
+  "dna": "e930e136237638b021c5451c97db3647ff309707",
+  "edition": 1671,
+  "date": 1683840778093,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Gray"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

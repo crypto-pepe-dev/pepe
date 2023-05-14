@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1675",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1674.png",
+  "dna": "a96478b8d7ac111d060cb27afeeda26c58bdb8e6",
+  "edition": 1675,
+  "date": 1683840779857,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1261",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1260.png",
+  "dna": "6386a148ab434ba8afd5b7c204bd433574f0907e",
+  "edition": 1261,
+  "date": 1683840603416,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PinkBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

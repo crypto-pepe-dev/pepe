@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1444",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1443.png",
+  "dna": "b8866e4924b619920a1f851fb24a8800b554e207",
+  "edition": 1444,
+  "date": 1683840680458,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

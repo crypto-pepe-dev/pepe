@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #163",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/162.png",
+  "dna": "19ba7c381de2b86d7070c95d3dd8c00880309abc",
+  "edition": 163,
+  "date": 1683840146518,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Purple pattern"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes NightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cigarett"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

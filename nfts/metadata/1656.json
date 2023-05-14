@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1657",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1656.png",
+  "dna": "ae506411e7f98699489b52b6fced44a2062c371f",
+  "edition": 1657,
+  "date": 1683840772182,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PinkBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Antenna"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1850",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1849.png",
+  "dna": "e003bc0a0c3ebbe116da439b5c0fb56ae15f5ce0",
+  "edition": 1850,
+  "date": 1683840865723,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tyagi"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

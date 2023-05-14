@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #91",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/90.png",
+  "dna": "c102914ab1b4e0b16b9990a2aaace2ec8a7a43bf",
+  "edition": 91,
+  "date": 1683840116901,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

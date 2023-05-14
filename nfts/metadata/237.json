@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #238",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/237.png",
+  "dna": "de42661d380219d2aac30f4a202587daaa66f4b3",
+  "edition": 238,
+  "date": 1683840176629,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1533",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1532.png",
+  "dna": "e0000c39f3b6294083d5a20dc4c7af0932a067f2",
+  "edition": 1533,
+  "date": 1683840717592,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Purple"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

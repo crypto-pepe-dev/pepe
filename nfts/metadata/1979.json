@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1980",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1979.png",
+  "dna": "f3857d7b250ca4b755306c73fb596ff387a71a06",
+  "edition": 1980,
+  "date": 1683840926267,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MegaLaugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cigarett"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

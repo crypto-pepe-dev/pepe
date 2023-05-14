@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #816",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/815.png",
+  "dna": "8bc7ef99d3ced23d9a351d46086a87769445278a",
+  "edition": 816,
+  "date": 1683840415863,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body dark Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes NightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird White"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #316",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/315.png",
+  "dna": "3059f5c638ed695b886447e6a960a51565942f67",
+  "edition": 316,
+  "date": 1683840208036,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #586",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/585.png",
+  "dna": "c7615791507233fb3d768f0f773c8ab4ead5f195",
+  "edition": 586,
+  "date": 1683840318672,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Frog"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

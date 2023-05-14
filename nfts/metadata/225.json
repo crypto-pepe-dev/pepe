@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #226",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/225.png",
+  "dna": "74f4d2cb5f31a9bfe52eaae8e8cec9d1499c710a",
+  "edition": 226,
+  "date": 1683840171910,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body White Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Eggs"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1777",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1776.png",
+  "dna": "c4e56e5be3250e238ea6ac8e4dc2e1379aced99a",
+  "edition": 1777,
+  "date": 1683840829787,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Barette"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

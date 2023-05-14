@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1361",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1360.png",
+  "dna": "cf2314b5a2d01d51e7047d1bd7f2ccd8eebfe875",
+  "edition": 1361,
+  "date": 1683840645488,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

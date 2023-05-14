@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1565",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1564.png",
+  "dna": "fee44c58705a75c243127616a4a797aff5f217a6",
+  "edition": 1565,
+  "date": 1683840731012,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green Yellow pattern"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shy"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

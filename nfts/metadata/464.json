@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #465",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/464.png",
+  "dna": "b939e6fdd4c89e4453463982583bf3cb312fe7b6",
+  "edition": 465,
+  "date": 1683840269507,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cigarett"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #700",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/699.png",
+  "dna": "03269d8a48b0272f98ca0a83a7077baa6117fb1e",
+  "edition": 700,
+  "date": 1683840366580,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient RedYellow"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Elmo"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

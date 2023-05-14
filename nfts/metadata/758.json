@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #759",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/758.png",
+  "dna": "83220cb3b5f38791e57ec79e6713e96b5ba66b0b",
+  "edition": 759,
+  "date": 1683840392011,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Capybara"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

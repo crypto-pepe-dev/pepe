@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #813",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/812.png",
+  "dna": "59efcbe49cb6b0cd47286da27c712df8a735e17e",
+  "edition": 813,
+  "date": 1683840414472,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

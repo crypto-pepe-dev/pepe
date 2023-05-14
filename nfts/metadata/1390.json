@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1391",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1390.png",
+  "dna": "853a552c3a7cbbdc6b175c2d9f8ab8aee90e86f0",
+  "edition": 1391,
+  "date": 1683840658087,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body dark Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Eggs"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #112",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/111.png",
+  "dna": "b73adaae5baec4c2de56a22218c12275ed7091f9",
+  "edition": 112,
+  "date": 1683840125821,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "TonCoin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shy"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

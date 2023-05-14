@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1292",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1291.png",
+  "dna": "afe27198ff956c132dd545f60b5b5287192d993a",
+  "edition": 1292,
+  "date": 1683840616403,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tyagi"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

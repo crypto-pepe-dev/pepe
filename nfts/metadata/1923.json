@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1924",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1923.png",
+  "dna": "5b89e60ac4ea3c7000902e2b066320dc054c00dc",
+  "edition": 1924,
+  "date": 1683840899740,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy ShyBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle black"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

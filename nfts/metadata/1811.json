@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1812",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1811.png",
+  "dna": "4ab3e3e0e1a919f11bdf76e83c322af3be929aa9",
+  "edition": 1812,
+  "date": 1683840847011,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient BlueGreen"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Frog"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

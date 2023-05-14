@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1981",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1980.png",
+  "dna": "57d7b8c96412e2fe4581334750ea43873448eaff",
+  "edition": 1981,
+  "date": 1683840926721,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes NightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Viking Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

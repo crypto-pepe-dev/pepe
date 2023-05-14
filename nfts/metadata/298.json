@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #299",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/298.png",
+  "dna": "50172a9ff7372059a009add36d0846045f06cc78",
+  "edition": 299,
+  "date": 1683840201199,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body acid Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

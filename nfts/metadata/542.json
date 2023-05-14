@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #543",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/542.png",
+  "dna": "accf736f700fffe79522c5c8b2377b6844988406",
+  "edition": 543,
+  "date": 1683840301146,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Gray"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Bathrobe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

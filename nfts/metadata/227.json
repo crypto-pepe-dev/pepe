@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #228",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/227.png",
+  "dna": "90b8301f7899ffc04006f30e406f6e84a9227cc9",
+  "edition": 228,
+  "date": 1683840172704,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Dark"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Viking Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

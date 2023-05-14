@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #190",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/189.png",
+  "dna": "889cd5d18ce7785584c5aee90d625e5283b96f27",
+  "edition": 190,
+  "date": 1683840157254,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PurplePink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Capybara"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #47",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/46.png",
+  "dna": "abbeede2afc01565e569a449d14fcd0a66729349",
+  "edition": 47,
+  "date": 1683840099540,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Tyagi"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #35",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/34.png",
+  "dna": "ab47567a03f2c0c4d55effe46efd186df79c0755",
+  "edition": 35,
+  "date": 1683840094806,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Viking Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

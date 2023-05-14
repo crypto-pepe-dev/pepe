@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #380",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/379.png",
+  "dna": "9f7c410bcde075534c2b56bb01b3d912e31dda15",
+  "edition": 380,
+  "date": 1683840235524,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Eggs"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

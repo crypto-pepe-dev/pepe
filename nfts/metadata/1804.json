@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1805",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1804.png",
+  "dna": "fb75d48a94eca79792ada018225d65a937ae1593",
+  "edition": 1805,
+  "date": 1683840843741,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goldteeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

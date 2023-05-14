@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #914",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/913.png",
+  "dna": "6f6dcf664bc9dbfb35bd823b3b89ed5f8ea809f7",
+  "edition": 914,
+  "date": 1683840458510,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body acid Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #749",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/748.png",
+  "dna": "15488848fc04d3eadef4a9cf864b20f411686a96",
+  "edition": 749,
+  "date": 1683840387827,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient BlueGreen"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "GoldenChain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wizard Hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

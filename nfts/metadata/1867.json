@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1868",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1867.png",
+  "dna": "2add9a8f6b1b04fc53b13e21aad564a144713ccd",
+  "edition": 1868,
+  "date": 1683840874002,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body White Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shy"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

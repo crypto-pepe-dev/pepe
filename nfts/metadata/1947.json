@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1948",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1947.png",
+  "dna": "ce85e83b4037ca3515ff492c6078c3901b33b6ff",
+  "edition": 1948,
+  "date": 1683840911254,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Viking Helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

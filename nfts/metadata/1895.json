@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1896",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1895.png",
+  "dna": "cd81c2c3d6e4a3bc6f98cc8cde441386b9729c86",
+  "edition": 1896,
+  "date": 1683840886853,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "TonCoin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goldteeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

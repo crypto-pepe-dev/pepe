@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1814",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1813.png",
+  "dna": "0bb7e23a04825ef0b341f2fd8e763ce5261f6574",
+  "edition": 1814,
+  "date": 1683840847971,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient RedPink"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient BlueGreen"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Capybara"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

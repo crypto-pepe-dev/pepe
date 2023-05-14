@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #377",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/376.png",
+  "dna": "45c4ec1356d25d53e0ed81d67c67b294de69fa12",
+  "edition": 377,
+  "date": 1683840234310,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MegaLaugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shark"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

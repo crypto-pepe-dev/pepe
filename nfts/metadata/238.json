@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #239",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/238.png",
+  "dna": "f4bc698334254b1b274d86334d2d8d7d90a09fce",
+  "edition": 239,
+  "date": 1683840177040,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goldteeth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Flies"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

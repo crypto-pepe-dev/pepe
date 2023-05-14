@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1354",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1353.png",
+  "dna": "0527957e005ebab8a316b1b6f1231740d1e3600c",
+  "edition": 1354,
+  "date": 1683840642592,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "TonCoin"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shy"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1531",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1530.png",
+  "dna": "7e4e25675d9b9f385345a766b8ea81782c9c2f2e",
+  "edition": 1531,
+  "date": 1683840716827,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1934",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1933.png",
+  "dna": "5877ea05bb8cf57494b5b321b7f0a0009f51a9f6",
+  "edition": 1934,
+  "date": 1683840904742,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Nipples"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shy"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1268",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1267.png",
+  "dna": "b714ed7f06e8517416df781455afed778ed2d82e",
+  "edition": 1268,
+  "date": 1683840606352,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Purple pattern"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hairstyle yellow"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #956",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/955.png",
+  "dna": "6dee454343ff5309d4d26d01169f46c3f78c4515",
+  "edition": 956,
+  "date": 1683840476121,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Antenna"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

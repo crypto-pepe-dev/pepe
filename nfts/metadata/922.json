@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #923",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/922.png",
+  "dna": "accbf96a654fe2059078e1ac180ca42cd01080b6",
+  "edition": 923,
+  "date": 1683840462422,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Shark"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

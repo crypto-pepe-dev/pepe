@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1120",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1119.png",
+  "dna": "d309a8f22037344c6af18088a64c99d7db8af27b",
+  "edition": 1120,
+  "date": 1683840544539,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Capybara"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

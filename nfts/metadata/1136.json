@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1137",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1136.png",
+  "dna": "7185086cb11f3928afda217f212617186bf443c0",
+  "edition": 1137,
+  "date": 1683840551550,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird White"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

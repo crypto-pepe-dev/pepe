@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1006",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1005.png",
+  "dna": "4b56e3fb47e09f8086f774269eec128584e9de1d",
+  "edition": 1006,
+  "date": 1683840497009,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Antenna"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1894",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1893.png",
+  "dna": "a24ec9ddb980876fd51c007ce6e626151203024c",
+  "edition": 1894,
+  "date": 1683840885938,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Elmo"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

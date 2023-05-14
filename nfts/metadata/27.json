@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #28",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/27.png",
+  "dna": "2c1d72c87c04197355edcd243491d32aa6fc7f1e",
+  "edition": 28,
+  "date": 1683840092101,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body soft Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Purple"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

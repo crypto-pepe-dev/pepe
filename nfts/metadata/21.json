@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #22",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/21.png",
+  "dna": "49750f14529ba59f685ff202218377a87fb28ad5",
+  "edition": 22,
+  "date": 1683840089777,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body dark Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

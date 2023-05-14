@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #737",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/736.png",
+  "dna": "2ea2e158040493fa178fcdceaa6c2f9a1d56ac47",
+  "edition": 737,
+  "date": 1683840382841,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Nipples"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy ShyBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Antenna"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

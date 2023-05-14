@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #729",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/728.png",
+  "dna": "783f3bfbfdfe8486248fce83416ca00ab9e482eb",
+  "edition": 729,
+  "date": 1683840379406,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Purple pattern"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird White"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

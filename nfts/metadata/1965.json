@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1966",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1965.png",
+  "dna": "41d5439b3b46b970363733dafc960466645e810c",
+  "edition": 1966,
+  "date": 1683840919711,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Antenna"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

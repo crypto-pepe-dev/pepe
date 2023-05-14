@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1917",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1916.png",
+  "dna": "4650674843e59df4725ee55e73b0816b2817c356",
+  "edition": 1917,
+  "date": 1683840896518,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Red"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

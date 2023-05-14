@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #429",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/428.png",
+  "dna": "083bfcd1d865caa5be485edf530b5f5e1a9513e9",
+  "edition": 429,
+  "date": 1683840255177,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes LightBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Eggs"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

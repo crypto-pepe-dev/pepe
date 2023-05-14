@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #953",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/952.png",
+  "dna": "8d55fda9ddbe19dc21a59e65b1237bdecf0fc61f",
+  "edition": 953,
+  "date": 1683840474841,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Violet"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PurplePink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Halo"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

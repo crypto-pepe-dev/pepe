@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #265",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/264.png",
+  "dna": "13cd81bef9d77105261048ecc39a5fc54126694e",
+  "edition": 265,
+  "date": 1683840187475,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PurplePink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkGreen"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

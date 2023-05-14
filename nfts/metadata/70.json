@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #71",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/70.png",
+  "dna": "c065728bd8267fc42851055b3604241702713741",
+  "edition": 71,
+  "date": 1683840109026,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wave"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

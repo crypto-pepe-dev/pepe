@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #286",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/285.png",
+  "dna": "a9f8b6258f9a2d7ac2e2fa9862e70d9b06206f98",
+  "edition": 286,
+  "date": 1683840195984,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Gray"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

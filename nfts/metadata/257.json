@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #258",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/257.png",
+  "dna": "0e0e33809665a9a8f737a63e6a9703b11c277749",
+  "edition": 258,
+  "date": 1683840184635,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

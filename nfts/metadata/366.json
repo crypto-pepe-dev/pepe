@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #367",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/366.png",
+  "dna": "ebba4e863f3d69a657b686a59afd2678049f5275",
+  "edition": 367,
+  "date": 1683840230260,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient RedYellow"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Purple"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

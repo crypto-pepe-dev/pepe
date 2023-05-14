@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1718",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1717.png",
+  "dna": "d563f1639b86e5d9d0f6ac2e8b482f7409c281a6",
+  "edition": 1718,
+  "date": 1683840800081,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient RedYellow"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes GrayBlue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Meme Elmo"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

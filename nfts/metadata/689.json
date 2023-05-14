@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #690",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/689.png",
+  "dna": "f5b3ff0ad0ca67a8b5c40ac70a8c3052982f8014",
+  "edition": 690,
+  "date": 1683840362240,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient BlueGreen"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Moonbird Red"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

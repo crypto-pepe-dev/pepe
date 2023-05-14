@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1937",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1936.png",
+  "dna": "4751c2c03fa6ee1590e3109d24b86e013d871bcc",
+  "edition": 1937,
+  "date": 1683840906122,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body gradient PurplePink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Red"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Purple"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

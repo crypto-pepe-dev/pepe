@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #945",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/944.png",
+  "dna": "8cca5fb49d9a1e5d0564578579f44c49a6fd35ab",
+  "edition": 945,
+  "date": 1683840471465,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape PinkLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body GreenBlue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pokerface"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Yellow"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

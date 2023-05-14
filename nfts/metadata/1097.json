@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #1098",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1097.png",
+  "dna": "c420d7a9dbb8bfc4b9161bd5725a232ca1b6be95",
+  "edition": 1098,
+  "date": 1683840535269,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body dark Blue"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

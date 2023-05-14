@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #768",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/767.png",
+  "dna": "33b8c17e87f5265bb723394310e5cf9a5a836661",
+  "edition": 768,
+  "date": 1683840395728,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient GreenBlue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body acid Pink"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shy Gray"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #752",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/751.png",
+  "dna": "43161efdd1d671de5621ff4de9c0cfa57eef69f6",
+  "edition": 752,
+  "date": 1683840389074,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Purple"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "GoldenChain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mohawk Purple"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #152",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/151.png",
+  "dna": "aa13cfcbfafd6fe361bf9ca0ce8f712a700b9d15",
+  "edition": 152,
+  "date": 1683840142243,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Supersad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax Green"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ape"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

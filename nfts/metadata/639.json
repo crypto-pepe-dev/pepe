@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #640",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/639.png",
+  "dna": "9a1bd76626142c580873d7eed4d038b3c922d236",
+  "edition": 640,
+  "date": 1683840341020,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape BlueLight"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body Brown"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Wow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Relax DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

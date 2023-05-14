@@ -1,0 +1,31 @@
+{
+  "name": "Pepe #1263",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/1262.png",
+  "dna": "003ad793c778d3f9814d96256cd96aab8292008f",
+  "edition": 1263,
+  "date": 1683840604218,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "SkeletBody",
+      "value": "Skelet "
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry DarkRed"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ape"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}

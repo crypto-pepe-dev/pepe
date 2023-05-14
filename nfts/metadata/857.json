@@ -1,0 +1,35 @@
+{
+  "name": "Pepe #858",
+  "description": "Remember to replace this description",
+  "image": "https://pepes-nfts.github.io/nfts/metadata/857.png",
+  "dna": "097b49e632116a905afc5b08acd34ef22e8b8178",
+  "edition": 858,
+  "date": 1683840434061,
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Landscape gradient BlueWhite"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body light Green"
+    },
+    {
+      "trait_type": "Outwear",
+      "value": "Lightsaber Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "MegaLaugh"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes Blue"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Ape"
+    }
+  ],
+  "compiler": "HashLips Art Engine mod by VASYAN PFR"
+}
